@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "K904zcp5rJX6siOWIWp5qMSkUwdLL79NUD4YS30Vzdg=",
+  "Source": "Job_Scheduler_webAPI",
+  "BasePath": "_content/Job_Scheduler_webAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
